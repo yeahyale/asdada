@@ -17,15 +17,15 @@ do
 	end
 
 	Library = {
-	Accent = Color3.fromRGB(225, 19, 19); -- Strong Red
-Inline = Color3.fromRGB(54, 28, 31); -- Dark Red Tint
-Background = Color3.fromRGB(31, 16, 17); -- Darker Red/Black
-Text = Color3.fromRGB(255, 255, 255); -- White for readability
-TextInactive = Color3.fromRGB(200, 200, 200); -- Slightly dimmed white for inactive elements
-Border = Color3.fromRGB(75, 20, 20); -- Dark Red Border
-Risky = Color3.fromRGB(255, 0, 0); -- Bright Red for risky actions
+		Accent = Color3.fromRGB(19, 128, 225);
+		Inline = Color3.fromRGB(31, 28, 54);
+		Background = Color3.fromRGB(17, 16, 31);
+		Text = Color3.fromRGB(117,146,230);
+		TextInactive = Color3.fromRGB(135,135,135);
+		Border = Color3.fromRGB(35,35,35);
+		Risky = Color3.fromRGB(255,0,0);
 
-		FolderName = "Flare.cc";
+		FolderName = "Fishy";
 
 		Key = Enum.KeyCode.RightShift;
 		Open = true;
